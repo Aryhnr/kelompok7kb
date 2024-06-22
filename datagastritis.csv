@@ -1,0 +1,101 @@
+NO,Nama,ICD-10,Jenis Kelamin,Usia,TB (CM),BB (KG),Nyeri,Mual,Muntah,Keram,Hasil
+1,A01,K29.7,L,19,172,60,Ya,Ya,Ya,Tidak,Gastritis
+2,A02,K29.7,P,45,155,55,Ya,Ya,Ya,Ya,Gastritis
+3,A03,K29.7,L,23,156,50,Ya,Ya,Ya,Tidak,Gastritis
+4,A04,K29.7,P,12,145,65,Ya,Ya,Ya,Ya,Gastritis
+5,A05,K29.7,P,32,178,40,Ya,Tidak,Ya,Ya,Gastritis
+6,A06,K29.7,P,12,144,45,Ya,Tidak,Ya,Ya,Gastritis
+7,A07,K29.7,P,18,157,70,Tidak,Ya,Ya,Ya,Gastritis
+8,A08,K29.7,L,19,159,58,Ya,Ya,Ya,Ya,Gastritis
+9,A09,K29.7,L,17,161,63,Ya,Ya,Ya,Ya,Gastritis
+10,A10,K29.7,L,34,163,72,Ya,Ya,Ya,Ya,Gastritis
+11,A11,K29.7,P,23,165,46,Ya,Tidak,Ya,Ya,Gastritis
+12,A12,K29.7,L,23,167,55,Ya,Ya,Tidak,Ya,Gastritis
+13,A13,K29.7,L,12,145,50,Ya,Tidak,Ya,Ya,Gastritis
+14,A14,K29.7,P,56,156,61,Ya,Tidak,Tidak,Tidak,Non Gastritis
+15,A15,K29.7,L,43,167,59,Ya,Ya,Tidak,Tidak,Gastritis
+16,A16,K29.7,P,26,178,64,Ya,Tidak,Ya,Ya,Gastritis
+17,A17,K29.7,L,34,177,70,Ya,Tidak,Tidak,Tidak,Non Gastritis
+18,A18,K29.7,P,18,167,58,Ya,Ya,Tidak,Ya,Gastritis
+19,A19,K29.7,L,18,155,68,Tidak,Tidak,Tidak,Ya,Non Gastritis
+20,A20,K29.7,P,9,140,72,Ya,Tidak,Tidak,Tidak,Non Gastritis
+21,A21,K29.7,L,17,168,53,Ya,Ya,Ya,Ya,Gastritis
+22,A22,K29.7,L,23,162,60,Tidak,Tidak,Tidak,Tidak,Non Gastritis
+23,A23,K29.7,L,22,153,65,Ya,Ya,Ya,Ya,Gastritis
+24,A24,K29.7,L,43,149,50,Ya,Ya,Tidak,Ya,Gastritis
+25,A25,K29.7,L,43,158,58,Ya,Ya,Tidak,Ya,Gastritis
+26,A26,K29.7,P,21,158,53,Tidak,Tidak,Tidak,Tidak,Non Gastritis
+27,A27,K29.7,P,65,163,62,Ya,Ya,Tidak,Tidak,Gastritis
+28,A28,K29.7,P,32,167,68,Ya,Tidak,Tidak,Ya,Gastritis
+29,A29,K29.7,P,12,168,40,Ya,Tidak,Tidak,Tidak,Non Gastritis
+30,A30,K29.7,L,12,171,38,Ya,Tidak,Tidak,Tidak,Non Gastritis
+31,A31,K29.7,P,54,152,65,Tidak,Tidak,Ya,Ya,Gastritis
+32,A32,K29.7,L,32,159,55,Ya,Ya,Ya,Ya,Gastritis
+33,A33,K29.7,P,21,171,50,Ya,Tidak,Tidak,Tidak,Non Gastritis
+34,A34,K29.7,L,13,162,60,Ya,Ya,Tidak,Tidak,Gastritis
+35,A35,K29.7,L,45,168,53,Ya,Tidak,Tidak,Ya,Gastritis
+36,A36,K29.7,L,34,157,59,Tidak,Tidak,Tidak,Ya,Non Gastritis
+37,A37,K29.7,L,25,154,62,Ya,Tidak,Tidak,Ya,Gastritis
+38,A38,K29.7,L,33,163,70,Ya,Ya,Tidak,Ya,Gastritis
+39,A39,K29.7,P,16,158,58,Ya,Tidak,Ya,Ya,Gastritis
+40,A40,K29.7,P,18,159,50,Tidak,Tidak,Ya,Tidak,Non Gastritis
+41,A41,K29.7,P,18,171,68,Ya,Ya,Tidak,Ya,Gastritis
+42,A42,K29.7,P,19,172,65,Ya,Tidak,Tidak,Tidak,Non Gastritis
+43,A43,K29.7,L,17,165,60,Ya,Ya,Tidak,Ya,Gastritis
+44,A44,K29.7,P,15,167,55,Ya,Tidak,Tidak,Ya,Gastritis
+45,A45,K29.7,L,14,169,50,Ya,Ya,Tidak,Ya,Gastritis
+46,A46,K29.7,P,13,154,53,Ya,Tidak,Tidak,Ya,Gastritis
+47,A47,K29.7,L,11,157,72,Ya,Ya,Tidak,Ya,Gastritis
+48,A48,K29.7,P,11,149,68,Tidak,Tidak,Tidak,Tidak,Non Gastritis
+49,A49,K29.7,L,18,163,48,Ya,Ya,Tidak,Ya,Gastritis
+50,A50,K29.7,P,19,164,40,Ya,Tidak,Ya,Ya,Gastritis
+51,A51,K29.7,L,10,155,45,Ya,Tidak,Ya,Ya,Gastritis
+52,A52,K29.7,P,15,156,60,Ya,Ya,Tidak,Ya,Gastritis
+53,A53,K29.7,L,17,157,63,Ya,Ya,Tidak,Tidak,Gastritis
+54,A54,K29.7,P,14,154,67,Ya,Tidak,Tidak,Ya,Gastritis
+55,A55,K29.7,P,13,157,40,Ya,Tidak,Ya,Ya,Gastritis
+56,A56,K29.7,P,16,168,48,Ya,Ya,Tidak,Ya,Gastritis
+57,A57,K29.7,L,18,162,50,Tidak,Ya,Tidak,Tidak,Non Gastritis
+58,A58,K29.7,P,19,165,55,Ya,Tidak,Tidak,Ya,Gastritis
+59,A59,K29.7,L,23,154,60,Ya,Tidak,Ya,Ya,Gastritis
+60,A60,K29.7,P,23,155,53,Ya,Ya,Ya,Ya,Gastritis
+61,A61,K29.7,L,26,158,58,Tidak,Ya,Tidak,Tidak,Non Gastritis
+62,A62,K29.7,P,35,167,60,Tidak,Tidak,Ya,Ya,Gastritis
+63,A63,K29.7,L,23,165,62,Tidak,Tidak,Tidak,Tidak,Non Gastritis
+64,A64,K29.7,P,45,163,68,Ya,Tidak,Tidak,Tidak,Non Gastritis
+65,A65,K29.7,L,16,149,70,Ya,Ya,Ya,Ya,Gastritis
+66,A66,K29.7,L,18,163,61,Ya,Tidak,Tidak,Tidak,Non Gastritis
+67,A67,K29.7,L,32,167,50,Ya,Tidak,Ya,Ya,Gastritis
+68,A68,K29.7,L,12,163,55,Ya,Tidak,Ya,Ya,Gastritis
+69,A69,K29.7,L,24,158,53,Ya,Tidak,Tidak,Tidak,Non Gastritis
+70,A70,K29.7,L,65,159,45,Ya,Tidak,Tidak,Tidak,Non Gastritis
+71,A71,K29.7,L,23,165,50,Tidak,Tidak,Tidak,Ya,Non Gastritis
+72,A72,K29.7,L,45,159,60,Ya,Tidak,Ya,Tidak,Gastritis
+73,A73,K29.7,L,12,158,63,Ya,Ya,Tidak,Tidak,Gastritis
+74,A74,K29.7,L,12,160,68,Ya,Ya,Ya,Tidak,Gastritis
+75,A75,K29.7,L,12,165,40,Ya,Ya,Tidak,Tidak,Gastritis
+76,A76,K29.7,L,45,157,48,Tidak,Tidak,Tidak,Ya,Non Gastritis
+77,A77,K29.7,L,23,156,50,Tidak,Ya,Ya,Ya,Gastritis
+78,A78,K29.7,P,12,158,58,Tidak,Tidak,Ya,Ya,Gastritis
+79,A79,K29.7,P,37,170,60,Ya,Tidak,Tidak,Ya,Gastritis
+80,A80,K29.7,P,55,157,70,Ya,Tidak,Tidak,Ya,Gastritis
+81,A81,K29.7,L,45,159,63,Ya,Ya,Tidak,Tidak,Gastritis
+82,A82,K29.7,P,26,161,62,Tidak,Tidak,Ya,Tidak,Non Gastritis
+83,A83,K29.7,L,23,165,60,Tidak,Ya,Ya,Ya,Gastritis
+84,A84,K29.7,P,43,167,50,Ya,Tidak,Tidak,Ya,Gastritis
+85,A85,K29.7,L,32,168,53,Ya,Tidak,Tidak,Ya,Gastritis
+86,A86,K29.7,P,35,165,55,Ya,Tidak,Tidak,Tidak,Non Gastritis
+87,A87,K29.7,L,26,168,60,Ya,Ya,Tidak,Ya,Gastritis
+88,A88,K29.7,L,24,164,61,Ya,Tidak,Tidak,Ya,Gastritis
+89,A89,K29.7,P,45,165,70,Ya,Tidak,Tidak,Tidak,Non Gastritis
+90,A90,K29.7,P,23,157,48,Tidak,Tidak,Tidak,Ya,Non Gastritis
+91,A91,K29.7,P,61,165,50,Ya,Tidak,Tidak,Ya,Gastritis
+92,A92,K29.7,P,45,164,59,Ya,Tidak,Tidak,Ya,Gastritis
+93,A93,K29.7,P,45,156,62,Ya,Tidak,Tidak,Tidak,Non Gastritis
+94,A94,K29.7,P,23,164,65,Tidak,Tidak,Tidak,Ya,Non Gastritis
+95,A95,K29.7,P,34,168,68,Tidak,Ya,Tidak,Tidak,Non Gastritis
+96,A96,K29.7,P,12,154,71,Ya,Tidak,Tidak,Tidak,Non Gastritis
+97,A97,K29.7,L,33,161,63,Ya,Tidak,Tidak,Tidak,Non Gastritis
+98,A98,K29.7,L,43,163,53,Tidak,Tidak,Tidak,Tidak,Non Gastritis
+99,A99,K29.8,L,12,145,53,Ya,Tidak,Tidak,Tidak,Non Gastritis
+100,A100,K29.9,L,18,176,78,Tidak,Tidak,Ya,Tidak,Non Gastritis
