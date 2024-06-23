@@ -30,7 +30,7 @@ knn.fit(X_train, y_train)
 y_pred = knn.predict(X_test)
 # Menampilkan aplikasi Streamlit
 def main():
-    st.title("Klasifikasi Status Gizi Balita")
+    st.title("Klasifikasi Penyakit Gastritis")
     page = option_menu(None, ["Data","Analisa Data","Preprocessing", 'Modeling', "Implementasi"],
                     icons=['grid', 'wrench', 'chart-line', 'play'],
                     menu_icon="cast", default_index=0, orientation="horizontal")
