@@ -31,6 +31,9 @@ y_pred = knn.predict(X_test)
 # Menampilkan aplikasi Streamlit
 def main():
     st.title("Klasifikasi Penyakit Gastritis")
+    st.subheader("Kelompok 7")
+    st.write("1. AKH. RAIHAN GIMNASTIAR RAKHMAN 210411100232")
+    st.write("2. A. Makmun Alji 210411100241")
     page = option_menu(None, ["Data","Analisa Data","Preprocessing", 'Modeling', "Implementasi"],
                     icons=['grid', 'wrench', 'chart-line', 'play'],
                     menu_icon="cast", default_index=0, orientation="horizontal")
