@@ -52,6 +52,9 @@ def main():
         max_usia = int(df_binary['Usia'].max())
         max_tb = int(df_binary['TB (CM)'].max())
         max_bb = int(df_binary['BB (KG)'].max())
+        min_usia = int(df_binary['Usia'].min())
+        min_tb = int(df_binary['TB (CM)'].min())
+        min_bb = int(df_binary['BB (KG)'].min())
         
         agregat = {
             'Average Usia': average_usia,
@@ -59,7 +62,10 @@ def main():
             'Average BB': average_bb,
             'Max Usia': max_usia,
             'Max TB': max_tb,
-            'Max BB': max_bb
+            'Max BB': max_bb,
+            'Min Usia': min_usia,
+            'Min TB': min_tb,
+            'Min BB': min_bb
         }
 
         st.write(agregat)
