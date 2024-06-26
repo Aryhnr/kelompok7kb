@@ -52,14 +52,16 @@ def main():
         max_usia = df_binary['Usia'].max()
         max_tb = df_binary['TB (CM)'].max()
         max_bb = df_binary['BB (KG)'].max()
+        
         agregat = {
-            'Average Usia': [average_usia],
-            'Average TB': [average_tb],
-            'Average BB': [average_bb],
-            'Max Usia': [max_usia][0],
-            'Max TB': [max_tb][0],
-            'Max BB': [max_bb][0]
+            'Average Usia': average_usia,
+            'Average TB': average_tb,
+            'Average BB': average_bb,
+            'Max Usia': max_usia,
+            'Max TB': max_tb,
+            'Max BB': max_bb
         }
+
         st.write(agregat)
         st.subheader("Analisa Tren")
         # Plot untuk kolom 'Usia'
