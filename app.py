@@ -56,9 +56,9 @@ def main():
             'Average Usia': [average_usia],
             'Average TB': [average_tb],
             'Average BB': [average_bb],
-            'Max Usia': [max_usia[0]],
-            'Max TB': [max_tb[0]],
-            'Max BB': [max_bb[0]]
+            'Max Usia': [max_usia][0],
+            'Max TB': [max_tb][0],
+            'Max BB': [max_bb][0]
         }
         st.write(agregat)
         st.subheader("Analisa Tren")
