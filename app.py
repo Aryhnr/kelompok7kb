@@ -49,10 +49,16 @@ def main():
         average_usia = df_binary['Usia'].mean()
         average_tb = df_binary['TB (CM)'].mean()
         average_bb = df_binary['BB (KG)'].mean()
+        max_usia = df_binary['Usia'].max()
+        max_tb = df_binary['TB (CM)'].max()
+        max_bb = df_binary['BB (KG)'].max()
         agregat = {
             'Average Usia': [average_usia],
             'Average TB': [average_tb],
-            'Average BB': [average_bb]
+            'Average BB': [average_bb],
+            'Max Usia': [max_usia],
+            'Max TB': [max_tb],
+            'Max BB': [max_bb]
         }
         st.write(agregat)
         st.subheader("Analisa Tren")
